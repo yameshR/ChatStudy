@@ -1,6 +1,10 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-#NAME:Yamesh R
-#REG: 212222220059
+```
+NAME:Yamesh R
+```
+```
+REG: 212222220059
+```
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
